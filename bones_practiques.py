@@ -8,7 +8,7 @@ realitza la divisió entera, calcula el quocient
 i el residu, i mostra els resultats.
 
 __author__ = [Amira Shobet Biyah]
-__email__ = [afathi@gmail.com]
+__email__ = [afathi@instituticaria.cat]
 __date__ = 2024/10/12
 Institut Icària - Programació 1r Batxillerat - Curs 2023-24
 """

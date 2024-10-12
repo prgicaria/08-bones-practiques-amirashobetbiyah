@@ -7,9 +7,9 @@ enters (dividend i divisor),
 realitza la divisió entera, calcula el quocient
 i el residu, i mostra els resultats.
 
-Autor: [El teu nom]
-Contacte: [el teu correu electrònic]
-Data: 2024/10/12
+__author__ = [Amira Shobet Biyah]
+__email__ = [afathi@gmail.com]
+__date__ = 2024/10/12
 Institut Icària - Programació 1r Batxillerat - Curs 2023-24
 """
 

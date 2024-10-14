@@ -14,7 +14,7 @@ __date__ = 2024/10/12
 Institut Icària - Programació 1r Batxillerat - Curs 2023-24
 """
 
-Divident= int(input("Introdueix el Divident:"))
+Divident = int(input("Introdueix el Divident:"))
 Divisor = int(input("Introdueix el Divisor:"))
 Quocient = Divident // Divisor
 Residu = Divident % Divisor

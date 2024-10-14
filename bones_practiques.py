@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+
 """
 Nom del programa: Divisió entera i residu
 
